@@ -132,7 +132,7 @@
 		"percentageOfPop": 0.6
 	},
 	"Unknown": {
-		"rate": "N/A",
+		"rate": 0,
 		"searches": 56236
 	}
 }
