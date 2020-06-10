@@ -1,121 +1,121 @@
 {
 	"All": {
 		"rate": 7,
-		"searches": "375,588",
+		"searches": 375588,
 		"population": "56,075,912",
 		"percentageOfPop": 100.0
 	},
 	"Asian": {
 		"rate": 11,
-		"searches": "41,472",
+		"searches": 41472,
 		"population": "4,213,531",
 		"percentageOfPop": 7.5
 	},
 	"Bangladeshi": {
 		"rate": 21,
-		"searches": "9,610",
+		"searches": 9610,
 		"population": "447,201",
 		"percentageOfPop": 0.8
 	},
 	"Indian": {
 		"rate": 4,
-		"searches": "5,310",
+		"searches": 5310,
 		"population": "1,412,958",
 		"percentageOfPop": 2.5
 	},
 	"Pakistani": {
 		"rate": 10,
-		"searches": "11,207",
+		"searches": 11207,
 		"population": "1,124,511",
 		"percentageOfPop": 2.0
 	},
 	"Asian other": {
 		"rate": 18,
-		"searches": "15,345",
+		"searches": 15345,
 		"population": "835,720",
 		"percentageOfPop": 1.5
 	},
 	"Black": {
 		"rate": 38,
-		"searches": "70,648",
+		"searches": 70648,
 		"population": "1,864,890",
 		"percentageOfPop": 3.3
 	},
 	"Black African": {
 		"rate": 24,
-		"searches": "24,139",
+		"searches": 24139,
 		"population": "989,628",
 		"percentageOfPop": 1.8
 	},
 	"Black Caribbean": {
 		"rate": 31,
-		"searches": "18,488",
+		"searches": 18488,
 		"population": "594,825",
 		"percentageOfPop": 1.1
 	},
 	"Black other": {
 		"rate": 100,
-		"searches": "28,021",
+		"searches": 28021,
 		"population": "280,437",
 		"percentageOfPop": 0.5
 	},
 	"Mixed": {
 		"rate": 11,
-		"searches": "13,014",
+		"searches": 13014,
 		"population": "1,224,400",
 		"percentageOfPop": 2.2
 	},
 	"Mixed White/Asian": {
 		"rate": 4,
-		"searches": "1,267",
+		"searches": 1267,
 		"population": "341,727",
 		"percentageOfPop": 0.6
 	},
 	"Mixed White/Black African": {
 		"rate": 9,
-		"searches": "1,523",
+		"searches": 1523,
 		"population": "165,974",
 		"percentageOfPop": 0.3
 	},
 	"Mixed White/Black Caribbean": {
 		"rate": 12,
-		"searches": "4,931",
+		"searches": 4931,
 		"population": "426,715",
 		"percentageOfPop": 0.8
 	},
 	"Mixed other": {
 		"rate": 18,
-		"searches": "5,293",
+		"searches": 5293,
 		"population": "289,984",
 		"percentageOfPop": 0.5
 	},
 	"White": {
 		"rate": 4,
-		"searches": "187,761",
+		"searches": 187761,
 		"population": "48,209,395",
 		"percentageOfPop": 86.0
 	},
 	"White British": {
 		"rate": 3,
-		"searches": "155,185",
+		"searches": 155185,
 		"population": "45,134,686",
 		"percentageOfPop": 80.5
 	},
 	"White Irish": {
 		"rate": 5,
-		"searches": "2,820",
+		"searches": 2820,
 		"population": "531,087",
 		"percentageOfPop": 0.9
 	},
 	"White other": {
 		"rate": 12,
-		"searches": "29,756",
+		"searches": 29756,
 		"population": "2,485,942",
 		"percentageOfPop": 4.4
 	},
 	"Other inc Chinese": {
 		"rate": 7,
-		"searches": "6,457",
+		"searches": 6457,
 		"population": "563,696",
 		"percentageOfPop": 1.0
 	},
@@ -127,12 +127,12 @@
 	},
 	"Any other": {
 		"rate": 11,
-		"searches": "5,919",
+		"searches": 5919,
 		"population": "333,096",
 		"percentageOfPop": 0.6
 	},
 	"Unknown": {
 		"rate": "N/A",
-		"searches": "56,236"
+		"searches": 56236
 	}
 }
